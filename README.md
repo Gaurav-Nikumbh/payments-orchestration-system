@@ -35,7 +35,8 @@ It acts as the control plane for money movement.
 
 ## High-Level Architecture
 
-![System Architecture](diagram/system-architecture.png)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/27156dd3-a650-475c-8d2c-939c2909b765" />
+
 
 ---
 
@@ -51,7 +52,8 @@ It acts as the control plane for money movement.
 
 ## Payment Flow Example (ACH)
 
-![ACH Flow](diagram/ach-flow.png)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/1d79510c-ea6f-4989-b4d5-8d39067c1965" />
+
 
 Typical flow:
 
